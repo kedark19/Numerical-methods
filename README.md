@@ -2,8 +2,6 @@
 
 Root finding 
 
-Interpolation 
-
 Differentiation 
 
 Integration 
